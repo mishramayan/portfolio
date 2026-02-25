@@ -40,13 +40,13 @@ const about = () => {
           </div>
 
           <p>
-          A technology enthusiast with 3+ years of industry experience as a 
-          software developer skilled to work in a team, hardworking and is 
-          knowledgeable of the overall software development cycle. 
-          I am passionate about designing and building software products 
-          that would be helpful in solving real world issues. I enjoy 
-          learning and experimenting new things to keep myself up to date 
-          with the current technology trend.
+            Full Stack Engineer with 6+ years of experience in both software development and DevOps. 
+            Built automated CI/CD pipelines and scalable MLOps systems for model deployment 
+            using Terraform, Docker, and Python, while also developing production-ready 
+            applications with Java, React, and TypeScript. Created an Azure DevOps extension 
+            to streamline infrastructure management and deliver real-time resource insights. 
+            Eager to apply combined expertise in development and automation to drive efficient, 
+            cloud-native solutions for the team. 
           </p>
 
           <a href="#contact" className="btn btn-primary">Let's Talk</a>
